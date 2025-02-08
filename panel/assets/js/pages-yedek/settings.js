@@ -1,0 +1,1 @@
+$('[data-toggle="quill"]').summernote({height:200,minHeight:null,maxHeight:null,focus:!0});
